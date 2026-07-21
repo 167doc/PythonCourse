@@ -13,14 +13,22 @@
 body
 {
         font-family: "Poppins";
+        font-size: 14px;
         color: #414042;
+        font-weight: normal;
 }
 
 h1, h2, h3, h4, h5, h6
 {
     text-align: center;
     color:#00103f;
-    
+    font-weight: bold;
+}
+
+
+h2
+{
+    font-size: 1.7em;
 }
 .centrovany
 {
