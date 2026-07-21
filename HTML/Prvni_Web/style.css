@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "Poppins";
+    src: url("../Fonts/Poppins-Regular.ttf");
+    font-weight: normal;
+}
+  
+
+@font-face {
+    font-family: "Poppins";
+    src: url("../Fonts/Poppins-Bold.ttf");
+    font-weight: bold;
+}
+body
+{
+        font-family: "Poppins";
+        color: #414042;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+    text-align: center;
+    color:#00103f;
+    
+}
+.centrovany
+{
+    text-align: center;
+}
+
