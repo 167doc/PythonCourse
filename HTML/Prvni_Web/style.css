@@ -16,6 +16,7 @@ body
         font-size: 14px;
         color: #414042;
         font-weight: normal;
+        box-sizing: border-box;
         background-color: url("../Images/background.jpg") #F9F9F9;
 /* obrazek schválně neni*/
 }
@@ -29,15 +30,27 @@ body
 
 .avatar
 {
+    float: right;
     width: 300px;
+    padding-left: 10px;
+    filter: grayscale(100%);
     
 }
 
+.cistic{
+    clear: both;
+}
 article
 {
+    padding: 50px 50px 10px 50px;
     max-width: 960px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
     margin: 0 auto;
+    /*border: 3px solid green;*/
+    /*border-width: 3px;
+    border-style: solid;
+    border-color: #70B73A;*/
+
 
 }
 
@@ -53,7 +66,8 @@ article h4,
 article h5,
 article h6 
 {
-    color: #00386B;    
+    color: #00386B;   
+    padding: 10px 0; 
 }
 
 article h1
@@ -62,6 +76,8 @@ article h1
     font-weight: bold;
     text-transform: uppercase;
     width: max-content;
+    border-bottom: 3px solid #EF6534;
+    margin: 0;
 
 
 }
@@ -71,10 +87,41 @@ article h2
  }
  article section p
  {
+    margin-bottom: 1.5em;
     line-height: 1.8em;
+
     
  }
  article section a
  {
     color:#EF6534;
+ }
+ .reference-tlacitko {
+    background-color: #70B73A;
+    color: white;
+    font-size: 0.9em;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 12px 25px;
+    border-radius: 25px 25px 25px 25px;
+
+    /*border-top: 3px solid green;
+    border-right: 3px solid green;
+    border-bottom: 3px solid green;
+    border-left: 3px solid green;
+    
+    padding-top: 20px;
+padding-right: 20px;
+padding-bottom: 20px;
+padding-left: 20px;
+
+margin-top: 20px;
+margin-right: 20px;
+margin-bottom: 20px;
+margin-left: 20px;
+
+padding: 20px 20px 20px 20px;
+margin: 20px 20px 20px 20px;
+
+*/
  }
