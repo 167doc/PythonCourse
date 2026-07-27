@@ -230,7 +230,12 @@ border: 1px solid grey;
     text-decoration: none;
 }
 
-
+#about_me{
+    width: 250px;
+    float: right;
+    box-shadow: 3px 3px 6px #999999;
+    border-radius: 25px;
+}
 
 
     /*border-top: 3px solid green;
