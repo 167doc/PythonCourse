@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7338b4a-cf63-4b23-bf04-7aa750d95cc7" name="Changes" comment="PythonFirstApp">
+      <change beforePath="$PROJECT_DIR$/../Python/1.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0002730357576182" />
+      <entry key="MS500" value="1.6108659677126087" />
+      <entry key="S2" value="4.321084381730972" />
+      <entry key="S5" value="6.615690381382143" />
+      <entry key="S10" value="9.590080978063455" />
+      <entry key="S30" value="17.7099768380485" />
+      <entry key="S60" value="22.883359061955286" />
+      <entry key="M2" value="27.227513919131386" />
+      <entry key="M5" value="37.88970230599574" />
+      <entry key="M10" value="55.231249585114064" />
+      <entry key="M15" value="66.6978589914015" />
+      <entry key="M30" value="83.42745252549473" />
+      <entry key="H1" value="94.52753977373966" />
+      <entry key="H2" value="100.93662887057333" />
+      <entry key="H4" value="104.38235040730535" />
+      <entry key="D1" value="107.3847463956155" />
+      <entry key="W1" value="107.91180012597123" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.96619887476902" />
+      <entry key="MS500" value="1.5928076010030048" />
+      <entry key="S2" value="4.300315278339443" />
+      <entry key="S5" value="6.6026512763371805" />
+      <entry key="S10" value="9.58063092949479" />
+      <entry key="S30" value="17.70405755759974" />
+      <entry key="S60" value="22.879550991889253" />
+      <entry key="M2" value="27.225223677584903" />
+      <entry key="M5" value="37.888107500170605" />
+      <entry key="M10" value="55.22976625375834" />
+      <entry key="M15" value="66.69654066721392" />
+      <entry key="M30" value="83.42653972111636" />
+      <entry key="H1" value="94.52699569428529" />
+      <entry key="H2" value="100.93633096605214" />
+      <entry key="H4" value="104.38219442483101" />
+      <entry key="D1" value="107.3847193705495" />
+      <entry key="W1" value="107.91179623937352" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3HDsXf7Qkk2Z1SRU7gnT2w9knpm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-6fa658e1df1a-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.8665.369" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7338b4a-cf63-4b23-bf04-7aa750d95cc7" name="Changes" comment="" />
+      <created>1785414015050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1785414015050</updated>
+      <workItem from="1785414016038" duration="1734000" />
+    </task>
+    <task id="LOCAL-00001" summary="PythonFirstApp">
+      <option name="closed" value="true" />
+      <created>1785414126087</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1785414126087</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="PythonFirstApp" />
+    <option name="LAST_COMMIT_MESSAGE" value="PythonFirstApp" />
+  </component>
+</project>
