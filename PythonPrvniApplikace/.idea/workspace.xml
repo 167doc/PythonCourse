@@ -3,14 +3,23 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="ALL" />
   </component>
+  <component name="BackgroundAgentGlobalSettings">
+    <option name="selectedModelId" value="auto" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b7338b4a-cf63-4b23-bf04-7aa750d95cc7" name="Changes" comment="PythonFirstApp">
-      <change beforePath="$PROJECT_DIR$/../Python/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_E:/IT Rekvafikace/PythonCourse/PythonCourse/PythonPrvniApplikace" value="3HDyw2IgIYvIFQ4h7b0rUnn10oa" />
+    </persistenceIdMap>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -24,23 +33,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0002730357576182" />
-      <entry key="MS500" value="1.6108659677126087" />
-      <entry key="S2" value="4.321084381730972" />
-      <entry key="S5" value="6.615690381382143" />
-      <entry key="S10" value="9.590080978063455" />
-      <entry key="S30" value="17.7099768380485" />
-      <entry key="S60" value="22.883359061955286" />
-      <entry key="M2" value="27.227513919131386" />
-      <entry key="M5" value="37.88970230599574" />
-      <entry key="M10" value="55.231249585114064" />
-      <entry key="M15" value="66.6978589914015" />
-      <entry key="M30" value="83.42745252549473" />
-      <entry key="H1" value="94.52753977373966" />
-      <entry key="H2" value="100.93662887057333" />
-      <entry key="H4" value="104.38235040730535" />
-      <entry key="D1" value="107.3847463956155" />
-      <entry key="W1" value="107.91180012597123" />
+      <entry key="MS100" value="1.0000000123578243" />
+      <entry key="MS500" value="1.0262264201767601" />
+      <entry key="S2" value="1.4701704388752344" />
+      <entry key="S5" value="2.0360520589810234" />
+      <entry key="S10" value="2.4799244073847797" />
+      <entry key="S30" value="4.634878101165708" />
+      <entry key="S60" value="8.39146731871767" />
+      <entry key="M2" value="15.067993308849308" />
+      <entry key="M5" value="32.64954091519482" />
+      <entry key="M10" value="57.96578755151324" />
+      <entry key="M15" value="77.80139690296778" />
+      <entry key="M30" value="113.32102632067962" />
+      <entry key="H1" value="141.7790644497227" />
+      <entry key="H2" value="160.11537283295837" />
+      <entry key="H4" value="170.5688503037344" />
+      <entry key="D1" value="180.0226690622236" />
+      <entry key="W1" value="181.71569918173503" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -62,29 +71,29 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.96619887476902" />
-      <entry key="MS500" value="1.5928076010030048" />
-      <entry key="S2" value="4.300315278339443" />
-      <entry key="S5" value="6.6026512763371805" />
-      <entry key="S10" value="9.58063092949479" />
-      <entry key="S30" value="17.70405755759974" />
-      <entry key="S60" value="22.879550991889253" />
-      <entry key="M2" value="27.225223677584903" />
-      <entry key="M5" value="37.888107500170605" />
-      <entry key="M10" value="55.22976625375834" />
-      <entry key="M15" value="66.69654066721392" />
-      <entry key="M30" value="83.42653972111636" />
-      <entry key="H1" value="94.52699569428529" />
-      <entry key="H2" value="100.93633096605214" />
-      <entry key="H4" value="104.38219442483101" />
-      <entry key="D1" value="107.3847193705495" />
-      <entry key="W1" value="107.91179623937352" />
+      <entry key="MS100" value="0.7684375980945868" />
+      <entry key="MS500" value="0.9723685952863168" />
+      <entry key="S2" value="1.4123665765959874" />
+      <entry key="S5" value="1.9389508620942235" />
+      <entry key="S10" value="2.395164577318267" />
+      <entry key="S30" value="4.592866520497483" />
+      <entry key="S60" value="8.367741214691538" />
+      <entry key="M2" value="15.05488619088744" />
+      <entry key="M5" value="32.64246469073414" />
+      <entry key="M10" value="57.9605964511794" />
+      <entry key="M15" value="77.79710740822446" />
+      <entry key="M30" value="113.31817738915782" />
+      <entry key="H1" value="141.77736809224947" />
+      <entry key="H2" value="160.1144384704788" />
+      <entry key="H4" value="170.5683587316294" />
+      <entry key="D1" value="180.02258347191705" />
+      <entry key="W1" value="181.71568686105925" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3HDsXf7Qkk2Z1SRU7gnT2w9knpm" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -97,12 +106,14 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
@@ -110,7 +121,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
@@ -128,7 +139,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1785414015050</updated>
-      <workItem from="1785414016038" duration="1734000" />
+      <workItem from="1785414016038" duration="3107000" />
+      <workItem from="1785417174577" duration="2048000" />
     </task>
     <task id="LOCAL-00001" summary="PythonFirstApp">
       <option name="closed" value="true" />
@@ -150,5 +162,8 @@
     </ignored-roots>
     <MESSAGE value="PythonFirstApp" />
     <option name="LAST_COMMIT_MESSAGE" value="PythonFirstApp" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonPrvniApplikace$main.coverage" NAME="main Coverage Results" MODIFIED="1785416695387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
