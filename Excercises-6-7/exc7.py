@@ -1,5 +1,0 @@
-delsi_slovo = input("Zadejte delší slovo: ").strip()
-kratsi_slovo=input("Zadejte kratší slovo: ").strip()
-delsi_slovo=len(delsi_slovo)
-kratsi_slovo=len(kratsi_slovo)
-print(f"Slova se liší délkou o {delsi_slovo-kratsi_slovo} znaků")
