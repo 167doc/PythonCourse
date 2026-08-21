@@ -1,0 +1,152 @@
+/* TODO */* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*css reset*/
+
+/* Default setting*/
+
+body {
+    max-width: 960px;
+    background-color: #f6f6f6;
+    color: #5a2501;
+    margin: 0 auto;
+    
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, monospace;
+}
+.container {
+    width: 960px;
+    margin: 0 auto;
+}
+
+/* Header & Nav */
+
+.header-wraper {
+    background-color: #f6f6f6;
+}
+
+header {
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between
+}
+
+.logo a {
+    font-family: Arial, Helvetica, sans-serif, monospace;
+    color: #5a2501;
+    text-decoration: none;
+    font-style: italic;
+    align-items: center;
+    justify-content: space-evenly;
+    align-content: right;
+    margin-left: 50px;
+    background-color: #f6f6f6;
+    border: 5px solid #5a2501;
+    border-radius: 25px 5px;
+    padding: 7px 5px 7px;
+}
+
+.logo a:hover {
+    color: #f6f6f6;
+    background-color: #5a2501;
+}
+
+.navigation ul {
+    display: flex;
+    justify-content: flex-end;
+}
+
+li {
+    list-style: none;
+    margin-right: 10px;
+}
+
+li a {
+    text-decoration: none;
+    background-color: #5a2501;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+li a:hover {
+    background-color: rgba(242, 233, 243, 0.884);
+    color:#5a2501;
+    border: 3px solid #5a2501;
+}
+
+.welcome-section {
+    width: 960px;
+    height: 300px;
+    background-image: url('./coffee.jpg');
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    border-top: 6px double #5a2501;
+    border-bottom: 6px double #5a2501;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+/* Main headline & Article*/
+
+.main-content {
+    margin-top: 40px;
+    display: flex;
+}
+
+article h2 {
+    font-size: 36px;
+    margin-bottom: 20px
+}
+
+article {
+    font-size: 16px;
+}
+ 
+.img-waffle {
+    width: 400px;
+    height: auto;
+    border-radius: 8px;
+        border-top: 6px double #5a2501;
+    border-bottom: 6px double #5a2501;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+}
+
+.img-ice-cream {
+    display: block;
+    width: 400px;
+    height: auto;
+    border-radius: 8px;
+    margin-right: 10px;
+    border-top: 6px double #5a2501;
+    border-bottom: 6px double #5a2501;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+}
+
+/* Footer */
+
+footer {
+    margin-top: 20px;
+    background-color: #5a2501;
+    width: 960px;
+    height: 50px;
+}
+
+footer ul {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: flex-end;
+    color: rgb(235, 229, 217);
+    padding-top: 20px;
+}
+
+
