@@ -1,30 +1,23 @@
-import copy as cp
-class Kostka():
-    #game dice
+#!/usr/bin/env python3
 
-    def __init__(self,pocet_sten=6):
-        self.__pocet_sten=pocet_sten
+class Kostka:
+
+    def __init__(self, pocet_sten=6):
+        self._pocet_sten = pocet_sten
+
+    def __str__(self):
+        return str(f"Kostka s {self._pocet_sten} stěnami.")
 
     def vrat_pocet_sten(self):
-        return self.__pocet_sten # Python name mangling: _Kostka__pocet_sten
+        return self._pocet_sten
 
     def hod(self):
-        #returns numbers from 1 to number of sides of the dice 
         import random as _random
-        return _random.randint(1, self.__pocet_sten)
+        return _random.randint(1, self._pocet_sten)
 
-    def __str__(self):
-        """
-        Vrací textovou reprezentaci kostky.
-        """
-        return str(f"Kostka s {self.__pocet_sten} stěnami.")
+    def __repr__(self):
+        return f"Kostka({self._pocet_sten})"
 
-class Hrac():
-    def __init__(self, jmeno, kostka):
-        self.jmeno = jmeno
-        self.kostka = kostka
-    def __str__(self):
-        return f"{self.jmeno}:{self.kostka}"   
 
 
 """
@@ -36,7 +29,7 @@ kostka._pocet_sten = 8
 print(hrac)
 print(kopie_hrace)
 print("~~~~~~~~~~~~~~~~~~~~~~~~~")
-"""
+
 kostka = Kostka(6)
 hrac = Hrac("Pavel", kostka)
 
@@ -48,7 +41,6 @@ print(hrac)
 print(kopie_hrace)
 print("~~~~~~~~~~~~~~~~~~~~~~~~~")
 
-"""
 # Vytvoříme instanci kostky s 6 stěnami
 moje_kostka = Kostka(6)
 print(f"Constuctor method - original:{moje_kostka}")

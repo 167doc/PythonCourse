@@ -1,4 +1,4 @@
-from Calculator_OOP import Calculator
+from PythonCourse.Calculator.Calculator_OOP import Calculator
 
 
 kalkulacka=Calculator()
