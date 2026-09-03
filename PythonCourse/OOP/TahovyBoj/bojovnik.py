@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+
 class Bojovnik:
     """
     Třída reprezentující bojovníka do arény.
@@ -28,9 +29,12 @@ class Bojovnik:
         return self._zivot > 0
 
     def graficky_zivot(self):
+        return self.graficky_ukazatel(self._zivot, self._max_zivot)
+
+    def graficky_ukazatel(self, aktualni, maximalni):
         celkem = 20
-        pocet = int(self._zivot / self._max_zivot * celkem)
-        if pocet == 0 and self.je_nazivu():
+        pocet = int(aktualni / maximalni * celkem)
+        if (pocet == 0 and self.je_nazivu()):
             pocet = 1
         return f"[{'#' * pocet}{' ' * (celkem - pocet)}]"
 
@@ -57,4 +61,5 @@ class Bojovnik:
 
     def vrat_posledni_zpravu(self):
         return self._zprava
+
 
